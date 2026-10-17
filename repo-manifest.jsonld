@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/fitsblender/commit/035429ac2c8422b4a6f4872dffc1e594d90d0af3",
       "git:hexsha": "035429ac2c8422b4a6f4872dffc1e594d90d0af3",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.4.4"
     },
     {
