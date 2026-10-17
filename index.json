@@ -1,0 +1,11 @@
+{
+  "org": "spacetelescope",
+  "repo": "fitsblender",
+  "versions": [
+    {
+      "commit": "035429ac2c8422b4a6f4872dffc1e594d90d0af3",
+      "tag": "0.4.4",
+      "parsed_at": "2026-10-17T00:58:35.840150+00:00"
+    }
+  ]
+}
